@@ -2,7 +2,7 @@
   {$packset 1}
 {$endif}
 
-{$define zmq3}
+{$define zmq4}
 
 {$ifdef zmq4}
   {$define zmq3}
