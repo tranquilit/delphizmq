@@ -19,7 +19,7 @@
 unit zmqapi;
 
 {$ifdef FPC}
-  {$mode delphi}{$H+}
+  {$mode delphiunicode}{$H+}
 {$endif}
 
 {$I zmq.inc}
