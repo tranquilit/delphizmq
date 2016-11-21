@@ -1,9 +1,11 @@
 *.~*
+*.o
+*.ppu
+*.dcu
 *.exe
 *.local
 *.identcache
 __history
 fastmm4
 dunit
-/lib
-/.svn
+backup/*
